@@ -1,4 +1,22 @@
 body {
+    margin-left: 200px;
+    width: 900px;
+    height: 900px;
+}
+
+
+.player1 {
+    color: rgba(248, 0, 0, 0.241);
+    float: left;
+}
+
+.player2 {
+    color: aqua;
+    float: right;
+}
+
+
+.div-body {
     background: white;
     height: 500px;
     width: 500px;
