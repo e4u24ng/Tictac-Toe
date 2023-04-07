@@ -63,15 +63,26 @@ body {
 }
 
 .o {
-    font-size: 60px;
     color: aqua;
     text-align: center;
     font-size: 90px;
+    padding: 30px;
 }
 
 .x {
-    font-size: 60px;
     color: rgba(248, 0, 0, 0.241);
     text-align: center;
     font-size: 90px;
+    padding: 30px;
+}
+
+.div-btn {
+    padding: 50px 415px;
+}
+
+
+.btn {
+    color: rgba(248, 0, 0, 0.241);
+    height: 35px;
+    width: 70px;
 }
